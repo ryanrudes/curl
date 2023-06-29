@@ -6,3 +6,5 @@ scripts/run_*.sh
 test*
 *frame2state*
 wandb/
+models/
+runs/
